@@ -1,5 +1,4 @@
 package org.hhl.esETL.es
-
 import com.google.gson.GsonBuilder
 import io.searchbox.client.JestClientFactory
 import io.searchbox.client.config.HttpClientConfig
@@ -21,5 +20,4 @@ object esConnFactory extends Serializable{
     }
     factory
   }
-
 }
