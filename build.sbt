@@ -27,5 +27,4 @@ libraryDependencies ++= Seq(
   "org.apache.spark" %% "spark-graphx" % "2.0.0" % "provided",
   "org.apache.spark" %% "spark-mllib" % "2.0.0" % "provided",
   "io.searchbox" % "jest" % "1.0.3"
-
 )

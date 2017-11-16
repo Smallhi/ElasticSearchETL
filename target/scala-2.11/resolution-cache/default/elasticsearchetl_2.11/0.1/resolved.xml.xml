@@ -4,7 +4,7 @@
 		module="elasticsearchetl_2.11"
 		revision="0.1"
 		status="integration"
-		publication="20171115111652"
+		publication="20171115154255"
 	>
 		<description>
 		ElasticSearchETL
